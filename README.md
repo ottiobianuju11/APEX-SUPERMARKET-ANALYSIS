@@ -43,8 +43,9 @@ The average customer rating across all branches was **6.97/10** — a solid but 
 
  ## general recommendation
 
-Apex Supermarket should use Branch C (Naypyitaw) as its internal performance benchmark and replicate its practices network-wide, while pairing that with a seasonal promotion strategy to smooth out the February dip and consistent stocking/staffing aligned to weekly demand patterns (like the Saturday peak).** In short: standardize what's already working, and use the data to proactively manage the predictable dips and peaks rather than reacting to them after the fact.
+Apex Supermarket should use Branch C (Naypyitaw) as its internal performance benchmark and replicate its practices network-wide, while pairing that with a seasonal promotion strategy to smooth out the February dip and consistent stocking/staffing aligned to weekly demand patterns (like the Saturday peak).
 
+## TOOLS USED
 Power BI Desktop — Data modelling, DAX measures, and dashboard design
 Microsoft Excel / CSV — Raw data source
 
